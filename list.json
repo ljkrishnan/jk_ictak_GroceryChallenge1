@@ -1,0 +1,93 @@
+{
+    "list":[
+        
+        {
+            "slno":"SL No.",
+            "item":"ITEM",
+            "qty":"QNTY",
+            "unit":"UNIT",
+            "catagory":"CATAGORY",
+            "description":"DESCRIPTION"
+        },
+        {
+            "slno":"01",
+            "item":"Tomato",
+            "qty":"1",
+            "unit":"Kg",
+            "catagory":"Vegitable",
+            "description":"Red only"
+        },
+        {
+            "slno":"02",
+            "item":"Carrot",
+            "qty":"2",
+            "unit":"Kg",
+            "catagory":"Vegitable",
+            "description":"Fresh only"
+        },
+        {
+            "slno":"03",
+            "item":"Onion",
+            "qty":"3",
+            "unit":"Kg",
+            "catagory":"Vegitable",
+            "description":"Small Onion"
+        },
+        {
+            "slno":"04",
+            "item":"Banana",
+            "qty":"1",
+            "unit":"Kg",
+            "catagory":"Vegitable",
+            "description":"Raw"
+        },
+        {
+            "slno":"05",
+            "item":"Orange",
+            "qty":"2",
+            "unit":"Kg",
+            "catagory":"Fruit",
+            "description":"Green"
+        },
+        {
+            "slno":"06",
+            "item":"Lemon",
+            "qty":"500",
+            "unit":"g",
+            "catagory":"Fruit",
+            "description":"Yellow"
+        },
+        {
+            "slno":"07",
+            "item":"Apple",
+            "qty":"1",
+            "unit":"Kg",
+            "catagory":"Fruit",
+            "description":"Red USA"
+        },
+        {
+            "slno":"08",
+            "item":"Milk",
+            "qty":"1",
+            "unit":"L",
+            "catagory":"Dairy",
+            "description":"Cow's milk"
+        },
+        {
+            "slno":"09",
+            "item":"Ghee",
+            "qty":"1",
+            "unit":"L",
+            "catagory":"Dairy",
+            "description":"Milma"
+        },
+        {
+            "slno":"10",
+            "item":"Cheese",
+            "qty":"200",
+            "unit":"g",
+            "catagory":"Dairy",
+            "description":"Amul"
+        }
+    ]
+}
